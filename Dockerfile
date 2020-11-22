@@ -1,5 +1,5 @@
 FROM phusion/baseimage:0.9.22
-MAINTAINER BirgerK <birger.kamp@gmail.com>
+MAINTAINER Anton <anton/valkov@gmail.com>
 
 ENV SPARK_VERSION 2.2.1
 ENV SPARK_INSTALL /usr/local
